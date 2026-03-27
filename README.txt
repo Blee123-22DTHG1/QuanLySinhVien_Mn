@@ -1,7 +1,6 @@
 # 🏢 Hệ thống Quản lý Nhân viên (Employee Management System)
 
 <p align="center">
-  ) và thay đổi đường dẫn ảnh. -->
   <img src="https://capsule-render.vercel.app/render?type=waving&text=Employee%20Management%20System&fontAlignY=40&height=180&color=0078D7&fontSize=40" alt="Banner dự án" />
 </p>
 
