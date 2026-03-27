@@ -1,14 +1,6 @@
 # 🏢 Hệ thống Quản lý Nhân viên (Employee Management System)
 
 
-<p align="center">
-  <img src="https://img.shields.io/badge/.NET-9.0-blue?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Version">
-  <img src="https://img.shields.io/badge/Database-SQL_Server-red?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="Database">
-  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License">
-</p>
-
----
-
 ## 👋 Giới thiệu
 
 Chào mừng bạn đến với **Hệ thống Quản lý Nhân viên**! Đây là một giải pháp hiện đại, mạnh mẽ được xây dựng trên nền tảng .NET mới nhất, giúp các doanh nghiệp số hóa và tối ưu hóa quy trình quản lý nhân sự một cách dễ dàng và bảo mật.
