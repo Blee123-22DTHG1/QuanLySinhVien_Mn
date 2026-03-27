@@ -1,8 +1,5 @@
 # 🏢 Hệ thống Quản lý Nhân viên (Employee Management System)
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&text=Employee%20Management%20System&fontAlignY=40&height=180&color=0078D7&fontSize=40" alt="Banner dự án" />
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/.NET-9.0-blue?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Version">
