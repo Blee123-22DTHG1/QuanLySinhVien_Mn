@@ -1,5 +1,5 @@
 🚀 Employee Management System (EMS)
-<p align="center"> <img src="https://img.shields.io/badge/.NET-9.0-blue?style=for-the-badge&logo=dotnet" /> <img src="https://img.shields.io/badge/SQL%20Server-Database-red?style=for-the-badge&logo=microsoftsqlserver" /> <img src="https://img.shields.io/badge/Auth-Secure-green?style=for-the-badge&logo=auth0" /> <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" /> </p> <p align="center"> 💼 <strong>Modern — Secure — Fast — Scalable</strong> 💼 </p>
+
 👋 Giới thiệu
 
 Employee Management System (EMS) là hệ thống quản lý nhân sự được xây dựng bằng .NET Core 9.0, giúp doanh nghiệp:
